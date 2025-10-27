@@ -20,7 +20,7 @@ The dataset includes:
 ## Usage
 Open the .pbix Power BI file in Power BI Desktop to explore interactive visualizations including bar charts, pie charts, scatter plots, and waterfall charts designed to reveal patterns and actionable insights.
 
-** Author: **
+## Author:
 Thamme Shiva Kumar
 | GitHub: https://github.com/Shivathamme
 | LinkedIn: https://www.linkedin.com/in/shiva-kumar-thamme-01ba4b272/
