@@ -1,4 +1,4 @@
-Customer Churn Analysis Power BI Project
+# Customer Churn Analysis Power BI Project
 
 Project Overview
 This Power BI project analyzes customer churn data from a telecom company. It leverages customer demographics, service subscriptions, billing, and contract information to provide insights into churn behavior and key factors driving customer retention.
