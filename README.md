@@ -22,6 +22,10 @@ Open the .pbix Power BI file in Power BI Desktop to explore interactive visualiz
 
 ## Author
 Thamme Shiva Kumar
---> GitHub: https://github.com/Shivathamme
---> LinkedIn: https://www.linkedin.com/in/shiva-kumar-thamme-01ba4b272/
---> Email: shivathamme@gmail.com
+GitHub: https://github.com/Shivathamme
+LinkedIn: https://www.linkedin.com/in/shiva-kumar-thamme-01ba4b272/
+Email: shivathamme@gmail.com
+
+
+
+**Author:** Thamme Shiva Kumar | GitHub: [https://github.com/Shivathamme](https://github.com/Shivathamme) | LinkedIn: [https://www.linkedin.com/in/shiva-kumar-thamme-01ba4b272/](https://www.linkedin.com/in/shiva-kumar-thamme-01ba4b272/) | Email: [shivathamme@gmail.com](mailto:shivathamme@gmail.com)
